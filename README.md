@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rudrx17&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudrx17&theme=tokyonight" alt="GitHub Streak" width="48%"/>
+  
 </p>
 
 ---
@@ -47,6 +48,6 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rudraksh-ghodake-74567332b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rudraksh-ghodake-74567332b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rudrakshghodake26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
